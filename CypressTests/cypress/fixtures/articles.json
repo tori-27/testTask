@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+            "slug": "New-Title-for-article4-3061",
+            "title": "Title 1",
+            "description": "New description1",
+            "body": "About what is this article1",
+            "tagList": [],
+            "createdAt": "2024-04-24T11:45:00.738Z",
+            "updatedAt": "2024-04-24T11:45:00.738Z",
+            "favorited": false,
+            "favoritesCount": 1,
+            "author": {
+                "username": "kosice24",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "following": false
+            }
+        },
+        {
+            "slug": "New-Title-for-article3-3061",
+            "title": "Title 2",
+            "description": "New description1",
+            "body": "About what is this article1",
+            "tagList": [],
+            "createdAt": "2024-04-24T11:40:28.357Z",
+            "updatedAt": "2024-04-24T11:40:28.357Z",
+            "favorited": false,
+            "favoritesCount": 5,
+            "author": {
+                "username": "kosice24",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 2
+}
